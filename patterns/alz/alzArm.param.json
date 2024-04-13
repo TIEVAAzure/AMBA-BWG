@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "managementgroupid"
+      "value": "9c2ec644-a569-411e-9a97-9e7f3e88045d"
     },
     "platformManagementGroup": {
-      "value": "managementgroupid"
+      "value": "9c2ec644-a569-411e-9a97-9e7f3e88045d"
     },
     "IdentityManagementGroup": {
-      "value": "managementgroupid"
+      "value": "9c2ec644-a569-411e-9a97-9e7f3e88045d"
     },
     "managementManagementGroup": {
-      "value": "managementgroupid"
+      "value": "9c2ec644-a569-411e-9a97-9e7f3e88045d"
     },
     "connectivityManagementGroup": {
-      "value": "managementgroupid"
+      "value": "9c2ec644-a569-411e-9a97-9e7f3e88045d"
     },
     "LandingZoneManagementGroup": {
-      "value": "managementgroupid"
+      "value": "9c2ec644-a569-411e-9a97-9e7f3e88045d"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
